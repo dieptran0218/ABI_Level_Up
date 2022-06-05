@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - stackable
+  - unstackable
+  - walkable
+  - Win
   layers:
   - Default
   - TransparentFX
